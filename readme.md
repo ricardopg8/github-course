@@ -6,3 +6,4 @@ Faça sua doação.
 
 teste com push após clone.
 
+paypal
